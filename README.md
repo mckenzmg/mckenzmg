@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mckenzmg
-- 👀 I’m interested in automation of general tasks in SAP, Python, 
+- 👀 I’m interested in automation of general tasks in SAP, Python, VBA, etc. 
 - 🌱 I’m currently learning Python & CS Principles on Khan Academy
 - 💞️ I’m looking to collaborate on open source projects, collaborate wtih others on personal projects, & upload personal projects here
 - 📫 How to reach me ... mckenzmg@gmail.com
